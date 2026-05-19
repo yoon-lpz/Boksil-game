@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - BlackHoleTrigger
+  - BlackHole Object
+  - Canvas
+  - StartButton
+  - Jump
+  - Cinemachine
+  - Map
+  - Emptywall
+  - Background
+  - TutorialText
+  - gameManager
+  - Aliens
+  - AlienWalkingTrigger
+  - End
+  - Death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 666030161
+    locked: 0
+  - name: Ground
+    uniqueID: 1714007869
+    locked: 0
+  - name: Details
+    uniqueID: 2544917847
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 489117689
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
